@@ -1,4 +1,4 @@
-##Getting Started
+## Getting Started
 1. Clone the repo
 ```sh
 git clone https://github.com/CrawFish666/js-webpack-configs-template.git
